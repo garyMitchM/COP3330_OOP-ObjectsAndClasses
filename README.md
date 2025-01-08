@@ -1,4 +1,4 @@
-# COP3330_OOP-ObjectsAndClasses
+# COP3330_OOP-RestaurantApp
 
 Gary Montero - CEN 3024C Software Development 1 - CRN: 24204
 
